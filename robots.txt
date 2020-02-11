@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gogohxoed.catsword.com/sitemap.xml
